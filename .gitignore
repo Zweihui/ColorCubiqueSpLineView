@@ -1,10 +1,14 @@
 *.iml
+gen/
 .gradle
 /local.properties
+.idea
 /.idea/caches
 /.idea/libraries
 /.idea/modules.xml
 /.idea/workspace.xml
+/tools/sftptool/workdir
+/tools/sftptool/xiaoying_delivery
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
 .DS_Store
@@ -12,3 +16,10 @@
 /captures
 .externalNativeBuild
 .cxx
+app/build/
+app/release/
+autoLint.log
+.classpath
+.project
+*/.settings/*
+.settings/*
